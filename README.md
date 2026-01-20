@@ -35,15 +35,18 @@ You can run any file in this repository using a standard C compiler like GCC.
 **1. Clone the repository:**
 ```bash
 git clone [https://github.com/NisargChaudhary/C-language-Learning-Journey.git]
+```
 
 **2. Navigate to a specific chapter:**
 ```bash
 cd "Chapter 01 Basics"
+```
 
 **3. Compile and Run:**
 ```bash
 gcc filename.c -o output
 ./output
+```
 📚 Resources
 Course: CodeWithHarry C Language Playlist
 
@@ -53,5 +56,3 @@ Compiler: GCC (MinGW for Windows)
 If you are also learning C or have suggestions to optimize the code, feel free to fork this repo and submit a pull request!
 
 <p align="center"> Created by <a href="https://www.google.com/search?q=https://github.com/NisargChaudhary">Nisarg Chaudhary</a> </p>
-```bash
-git clone [https://github.com/NisargChaudhary/C-language-Learning-Journey.git](https://github.com/NisargChaudhary/C-language-Learning-Journey.git)](https://github.com/NisargChaudhary/C-language-Learning-Journey.git)
