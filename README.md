@@ -35,13 +35,13 @@ You can run any file in this repository using a standard C compiler like GCC.
 **1. Clone the repository:**
 ```bash
 git clone [https://github.com/NisargChaudhary/C-language-Learning-Journey.git]
-2. Navigate to a specific chapter:
 
-Bash
+**2. Navigate to a specific chapter:**
+```bash
 cd "Chapter 01 Basics"
-3. Compile and Run:
 
-Bash
+**3. Compile and Run:**
+```bash
 gcc filename.c -o output
 ./output
 📚 Resources
