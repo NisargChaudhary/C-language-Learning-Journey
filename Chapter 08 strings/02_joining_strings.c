@@ -6,8 +6,5 @@ int main(){
     char LastName[] = "Chaudhary";
     strcat(FirstName, LastName);
     printf("%s", FirstName);
-
-    
-    
     return 0;
 }
