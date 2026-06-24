@@ -1,5 +1,6 @@
 /*
-Write a program to take a string as an input from the user using %c and %s. Confirm that the strings are equal.
+Write a program to take a string as an input from the user using %c and %s. 
+Confirm that the strings are equal.
 */
 #include <stdio.h>
 
