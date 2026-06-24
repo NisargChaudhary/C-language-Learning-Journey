@@ -2,10 +2,9 @@
 int main()
 {
     char password[] = "SECRET";
-    for(int i = 0; i < 6; i++)
+    for(int i = 0; password[i] != '\0'; i++)
     {
-        printf("%c", password[i]);
-        printf("\n");
-        }
+        printf("%c\n", password[i]);
+    }
     return 0;
 }
