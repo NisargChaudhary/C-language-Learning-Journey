@@ -9,7 +9,7 @@ typedef struct employee
 } Emp; // semicolon is important
 
 int main(){
-    // typedef int harry;
+    // typedef int nisarg;
     // int a = 88;
     // printf("The value of a is %d \n", a);
 
@@ -18,7 +18,7 @@ int main(){
     Emp e1;
     Emp* ptr1 = &e1;
     e1.code = 4511;
-    strcpy(e1.name, "Harry");
+    strcpy(e1.name, "Nisarg");
     e1.salary = 54.44;
 
     printf("%d %f %s\n", e1.code, e1.salary, e1.name);

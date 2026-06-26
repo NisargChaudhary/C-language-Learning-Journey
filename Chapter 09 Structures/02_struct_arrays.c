@@ -13,8 +13,8 @@ int main()
     // we can access the data using:
     facebook[0].code = 100;
     facebook[1].code = 77;
-    struct employee harry = {100, 71.22, "harry"};
-    printf("%d %f %s", harry.code, harry.salary, harry.name);
+    struct employee nisarg = {100, 71.22, "nisarg"};
+    printf("%d %f %s", nisarg.code, nisarg.salary, nisarg.name);
     return 0;
 }
 
