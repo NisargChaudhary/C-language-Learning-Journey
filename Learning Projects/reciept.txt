@@ -1,0 +1,5 @@
+--- PIZZA RECEIPT ---
+Item: Margherita
+Quantity: 3
+Total Cost: $751.50
+---------------------

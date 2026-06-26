@@ -2,12 +2,12 @@
 For the give code perform the following:
    Your Mission:
 1. Populate the data for all 3 players using strcpy for the text and 
-standard assignment for the KD ratio. (Remember how array indexing works: team[0].kd_ratio = 1.5;).
+   standard assignment for the KD ratio. 
 
 2. Write a for loop that cycles through the array.
 
 3. Inside the loop, find the player with the highest kd_ratio and 
-print out their In-Game Name and their KD as the "MVP".*/
+   print out their In-Game Name and their KD as the "MVP".*/
 
 
 #include <stdio.h>
